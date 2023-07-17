@@ -1,0 +1,3644 @@
+.home-screen-tracker {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-screen-tracker .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 2484px;
+  overflow: hidden;
+  position: relative;
+  width: 360px;
+}
+
+.home-screen-tracker .overlap {
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.home-screen-tracker .browser-bar-android-chrome {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.home-screen-tracker .element-3 {
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 360px;
+}
+
+.home-screen-tracker .group-wrapper {
+  background-color: #ffffff;
+  height: 36px;
+  left: 303px;
+  position: absolute;
+  top: 55px;
+  width: 40px;
+}
+
+.home-screen-tracker .group {
+  height: 28px;
+  left: 6px;
+  position: relative;
+  top: 8px;
+  width: 27px;
+}
+
+.home-screen-tracker .overlap-group-2 {
+  height: 28px;
+  position: relative;
+}
+
+.home-screen-tracker .majesticons-home {
+  height: 24px;
+  left: 3px;
+  position: absolute;
+  top: 4px;
+  width: 24px;
+}
+
+.home-screen-tracker .mark-hsitemcount {
+  background-color: #333333;
+  border-radius: 20px;
+  box-shadow: -1px 0px 3px #70708066;
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.home-screen-tracker .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 9px;
+  font-weight: 700;
+  height: 13px;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: -2px;
+  white-space: nowrap;
+  width: 6px;
+}
+
+.home-screen-tracker .saturn-new-logo-wrapper {
+  background-color: #ffffff;
+  height: 51px;
+  left: 121px;
+  position: absolute;
+  top: 44px;
+  width: 118px;
+}
+
+.home-screen-tracker .saturn-new-logo {
+  height: 23px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 113px;
+}
+
+.home-screen-tracker .group-2 {
+  height: 114px;
+  left: 15px;
+  position: absolute;
+  top: 235px;
+  width: 330px;
+}
+
+.home-screen-tracker .overlap-group-wrapper {
+  height: 114px;
+  width: 334px;
+}
+
+.home-screen-tracker .overlap-group-3 {
+  border-radius: 10px;
+  height: 114px;
+  position: relative;
+  width: 330px;
+}
+
+.home-screen-tracker .frame-2 {
+  background-color: #ffffff33;
+  border-radius: 10px;
+  box-shadow: 0px 2px 10px #00000029;
+  height: 114px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 330px;
+}
+
+.home-screen-tracker .frame-3 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 10px #00000012;
+  height: 26px;
+  left: 204px;
+  overflow: hidden;
+  position: absolute;
+  top: 76px;
+  width: 100px;
+}
+
+.home-screen-tracker .group-3 {
+  height: 18px;
+  left: 11px;
+  position: relative;
+  top: 4px;
+  width: 78px;
+}
+
+.home-screen-tracker .group-4 {
+  height: 12px;
+  left: 24px;
+  position: absolute;
+  top: 3px;
+  width: 54px;
+}
+
+.home-screen-tracker .group-5 {
+  height: 12px;
+  position: relative;
+  width: 56px;
+}
+
+.home-screen-tracker .text-wrapper-3 {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .ic-baseline-water {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.home-screen-tracker .frame-4 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 10px #00000012;
+  height: 26px;
+  left: 204px;
+  overflow: hidden;
+  position: absolute;
+  top: 44px;
+  width: 100px;
+}
+
+.home-screen-tracker .group-6 {
+  height: 18px;
+  left: 11px;
+  position: relative;
+  top: 4px;
+  width: 69px;
+}
+
+.home-screen-tracker .group-7 {
+  height: 12px;
+  left: 24px;
+  position: absolute;
+  top: 3px;
+  width: 45px;
+}
+
+.home-screen-tracker .group-8 {
+  height: 12px;
+  position: relative;
+  width: 47px;
+}
+
+.home-screen-tracker .frame-5 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 10px #00000012;
+  height: 26px;
+  left: 204px;
+  overflow: hidden;
+  position: absolute;
+  top: 12px;
+  width: 100px;
+}
+
+.home-screen-tracker .group-9 {
+  height: 18px;
+  left: 11px;
+  position: relative;
+  top: 4px;
+  width: 63px;
+}
+
+.home-screen-tracker .group-10 {
+  height: 12px;
+  left: 24px;
+  position: absolute;
+  top: 3px;
+  width: 39px;
+}
+
+.home-screen-tracker .group-11 {
+  height: 12px;
+  position: relative;
+  width: 41px;
+}
+
+.home-screen-tracker .group-12 {
+  height: 24px;
+  left: 30px;
+  position: absolute;
+  top: 12px;
+  width: 104px;
+}
+
+.home-screen-tracker .group-13 {
+  height: 24px;
+}
+
+.home-screen-tracker .group-14 {
+  height: 24px;
+  width: 104px;
+}
+
+.home-screen-tracker .group-15 {
+  height: 24px;
+  position: relative;
+  width: 106px;
+}
+
+.home-screen-tracker .text-wrapper-4 {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .text-wrapper-5 {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  height: 44px;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.home-screen-tracker .frame-6 {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px #0000001a;
+  height: 17px;
+  left: 106px;
+  position: absolute;
+  top: 53px;
+  width: 90px;
+}
+
+.home-screen-tracker .text-wrapper-6 {
+  color: #fa715e;
+  font-family: "Roboto", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .text-wrapper-7 {
+  color: #777777;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 85px;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.home-screen-tracker .overlap-wrapper {
+  height: 126px;
+  left: 15px;
+  position: absolute;
+  top: 361px;
+  width: 159px;
+}
+
+.home-screen-tracker .overlap-2 {
+  border-radius: 10px;
+  height: 126px;
+  position: relative;
+}
+
+.home-screen-tracker .frame-7 {
+  background-color: #ffffff33;
+  border-radius: 10px;
+  box-shadow: 0px 2px 10px #00000029;
+  height: 126px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 159px;
+}
+
+.home-screen-tracker .group-16 {
+  height: 31px;
+  left: 75px;
+  position: relative;
+  top: 47px;
+  width: 68px;
+}
+
+.home-screen-tracker .group-17 {
+  height: 12px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.home-screen-tracker .group-18 {
+  height: 12px;
+  position: relative;
+  width: 39px;
+}
+
+.home-screen-tracker .text-wrapper-8 {
+  color: #777777;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .group-19 {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 70px;
+}
+
+.home-screen-tracker .text-wrapper-9 {
+  color: #777777;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .asicon-outline {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.home-screen-tracker .vector-2 {
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.home-screen-tracker .group-20 {
+  height: 107px;
+  left: 13px;
+  position: absolute;
+  top: 10px;
+  width: 123px;
+}
+
+.home-screen-tracker .group-21 {
+  height: 73px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 102px;
+}
+
+.home-screen-tracker .text-wrapper-10 {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  height: 44px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .group-22 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.home-screen-tracker .group-23 {
+  height: 24px;
+  position: relative;
+  width: 102px;
+}
+
+.home-screen-tracker .group-24 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 84px;
+  width: 123px;
+}
+
+.home-screen-tracker .group-25 {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 61px;
+}
+
+.home-screen-tracker .text-wrapper-11 {
+  color: #777777;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .text-wrapper-12 {
+  color: #777777;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .rectangle-wrapper {
+  background-color: #fe82764a;
+  border-radius: 10px;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.home-screen-tracker .rectangle {
+  background: linear-gradient(180deg, rgb(254, 130, 118) 11.25%, rgb(255, 70.55, 70.55) 100%);
+  border-radius: 10px;
+  height: 4px;
+  width: 68px;
+}
+
+.home-screen-tracker .group-26 {
+  height: 126px;
+  left: 186px;
+  position: absolute;
+  top: 361px;
+  width: 159px;
+}
+
+.home-screen-tracker .group-27 {
+  height: 31px;
+  left: 16px;
+  position: absolute;
+  top: 42px;
+  width: 68px;
+}
+
+.home-screen-tracker .group-28 {
+  height: 23px;
+  left: 16px;
+  position: absolute;
+  top: 94px;
+  width: 123px;
+}
+
+.home-screen-tracker .group-29 {
+  height: 24px;
+  left: 17px;
+  position: absolute;
+  top: 10px;
+  width: 69px;
+}
+
+.home-screen-tracker .group-30 {
+  height: 24px;
+  width: 69px;
+}
+
+.home-screen-tracker .group-31 {
+  height: 24px;
+  position: relative;
+  width: 71px;
+}
+
+.home-screen-tracker .frame-8 {
+  background-color: #333333;
+  border-radius: 4px;
+  box-shadow: 0px 2px 10px #0000001f;
+  height: 48px;
+  left: 13px;
+  position: absolute;
+  top: 506px;
+  width: 335px;
+}
+
+.home-screen-tracker .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.home-screen-tracker .vector-3 {
+  height: 13px;
+  left: 313px;
+  position: absolute;
+  top: 18px;
+  width: 8px;
+}
+
+.home-screen-tracker .frame-9 {
+  height: 221px;
+  left: 181px;
+  position: absolute;
+  top: 831px;
+  width: 156px;
+}
+
+.home-screen-tracker .overlap-3 {
+  height: 221px;
+  position: relative;
+  width: 162px;
+}
+
+.home-screen-tracker .group-32 {
+  height: 221px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 162px;
+}
+
+.home-screen-tracker .overlap-group-4 {
+  height: 221px;
+  position: relative;
+  width: 156px;
+}
+
+.home-screen-tracker .group-33 {
+  height: 221px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+
+.home-screen-tracker .overlap-group-5 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/group-18178-8@2x.png);
+  background-size: 100% 100%;
+  height: 241px;
+  left: -10px;
+  position: relative;
+  top: -8px;
+  width: 172px;
+}
+
+.home-screen-tracker .group-34 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/ic-favorite-24px-9@2x.png);
+  background-size: 100% 100%;
+  height: 19px;
+  left: 133px;
+  position: relative;
+  top: 23px;
+  width: 18px;
+}
+
+.home-screen-tracker .group-35 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 41px;
+}
+
+.home-screen-tracker .overlap-4 {
+  height: 20px;
+  position: relative;
+  width: 39px;
+}
+
+.home-screen-tracker .rectangle-2 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 39px;
+}
+
+.home-screen-tracker .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 9px;
+  letter-spacing: 0.18px;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .rectangle-3 {
+  height: 75px;
+  left: 4px;
+  position: absolute;
+  top: 146px;
+  width: 152px;
+}
+
+.home-screen-tracker .text-wrapper-15 {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  left: 17px;
+  letter-spacing: 0.18px;
+  line-height: 14px;
+  position: absolute;
+  top: 156px;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.home-screen-tracker .text-wrapper-16 {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 75px;
+  letter-spacing: 0.18px;
+  line-height: 14px;
+  position: absolute;
+  top: 173px;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .rs-rs {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: 0.18px;
+  line-height: 20px;
+  position: absolute;
+  top: 187px;
+  white-space: nowrap;
+  width: 95px;
+}
+
+.home-screen-tracker .span {
+  font-weight: 500;
+}
+
+.home-screen-tracker .text-wrapper-17 {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0.18px;
+  line-height: 20px;
+}
+
+.home-screen-tracker .text-wrapper-18 {
+  font-size: 10px;
+  text-decoration: line-through;
+}
+
+.home-screen-tracker .group-36 {
+  height: 11px;
+  left: 17px;
+  position: absolute;
+  top: 174px;
+  width: 55px;
+}
+
+.home-screen-tracker .frame-10 {
+  height: 221px;
+  left: 181px;
+  position: absolute;
+  top: 1131px;
+  width: 156px;
+}
+
+.home-screen-tracker .overlap-group-6 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/group-18178-7@2x.png);
+  background-size: 100% 100%;
+  height: 241px;
+  left: -10px;
+  position: relative;
+  top: -8px;
+  width: 172px;
+}
+
+.home-screen-tracker .frame-11 {
+  height: 221px;
+  left: 350px;
+  position: absolute;
+  top: 831px;
+  width: 156px;
+}
+
+.home-screen-tracker .group-37 {
+  height: 241px;
+  left: -10px;
+  position: absolute;
+  top: -8px;
+  width: 16px;
+}
+
+.home-screen-tracker .ic-favorite-wrapper {
+  height: 19px;
+  left: 123px;
+  position: absolute;
+  top: 15px;
+  width: 18px;
+}
+
+.home-screen-tracker .ic-favorite-px {
+  height: 19px !important;
+  left: -169px !important;
+  top: 411px !important;
+  width: 18px !important;
+}
+
+.home-screen-tracker .overlap-group-7 {
+  height: 20px;
+  position: relative;
+  width: 33px;
+}
+
+.home-screen-tracker .rectangle-4 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 10px;
+}
+
+.home-screen-tracker .rectangle-5 {
+  height: 75px;
+  left: 4px;
+  position: absolute;
+  top: 146px;
+  width: 6px;
+}
+
+.home-screen-tracker .group-38 {
+  height: 11px;
+  left: -152px;
+  position: absolute;
+  top: 585px;
+  width: 55px;
+}
+
+.home-screen-tracker .frame-12 {
+  height: 221px;
+  left: 350px;
+  position: absolute;
+  top: 1131px;
+  width: 156px;
+}
+
+.home-screen-tracker .ic-favorite-24px {
+  height: 19px !important;
+  left: -169px !important;
+  top: 111px !important;
+  width: 18px !important;
+}
+
+.home-screen-tracker .group-39 {
+  height: 11px;
+  left: -152px;
+  position: absolute;
+  top: 285px;
+  width: 55px;
+}
+
+.home-screen-tracker .text-wrapper-19 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0.18px;
+  line-height: 14px;
+  position: absolute;
+  top: 786px;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .text-wrapper-20 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0.18px;
+  line-height: 14px;
+  position: absolute;
+  top: 1091px;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .group-40 {
+  height: 307px;
+  left: 12px;
+  position: absolute;
+  top: 2049px;
+  width: 352px;
+}
+
+.home-screen-tracker .frame-13 {
+  height: 271px;
+  left: 0;
+  overflow-x: scroll;
+  position: absolute;
+  top: 36px;
+  width: 350px;
+}
+
+.home-screen-tracker .group-41 {
+  height: 271px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.home-screen-tracker .overlap-group-8 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-7@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 271px;
+  position: relative;
+  width: 271px;
+}
+
+.home-screen-tracker .rectangle-6 {
+  background-color: #00000069;
+  border-radius: 16px;
+  box-shadow: 0px 2px 10px #0000001f;
+  height: 271px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 271px;
+}
+
+.home-screen-tracker .p {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 21px;
+  letter-spacing: 0.18px;
+  line-height: normal;
+  position: absolute;
+  top: 170px;
+  width: 230px;
+}
+
+.home-screen-tracker .text-wrapper-21 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  left: 21px;
+  letter-spacing: 0.18px;
+  line-height: normal;
+  position: absolute;
+  top: 231px;
+  width: 152px;
+}
+
+.home-screen-tracker .group-42 {
+  height: 271px;
+  left: 284px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.home-screen-tracker .overlap-5 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-6@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 271px;
+  position: relative;
+  width: 271px;
+}
+
+.home-screen-tracker .group-43 {
+  height: 271px;
+  left: 568px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.home-screen-tracker .overlap-6 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-5@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 271px;
+  position: relative;
+  width: 271px;
+}
+
+.home-screen-tracker .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 21px;
+  letter-spacing: 0.18px;
+  line-height: normal;
+  position: absolute;
+  top: 186px;
+  width: 229px;
+}
+
+.home-screen-tracker .group-44 {
+  height: 271px;
+  left: 852px;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+
+.home-screen-tracker .overlap-7 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-4@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 271px;
+  position: relative;
+  width: 271px;
+}
+
+.home-screen-tracker .text-wrapper-23 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0.18px;
+  line-height: 14px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .overlap-8 {
+  height: 108px;
+  left: 0;
+  position: absolute;
+  top: 2376px;
+  width: 360px;
+}
+
+.home-screen-tracker .frame-14 {
+  background-color: #333333;
+  border-radius: 4px;
+  box-shadow: 0px 2px 10px #0000001f;
+  height: 55px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.home-screen-tracker .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 24px;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.home-screen-tracker .skill-icons {
+  height: 37px;
+  left: 11px;
+  position: absolute;
+  top: 8px;
+  width: 37px;
+}
+
+.home-screen-tracker .vector-4 {
+  height: 13px;
+  left: 311px;
+  position: absolute;
+  top: 20px;
+  width: 8px;
+}
+
+.home-screen-tracker .group-45 {
+  background-color: #ffffff;
+  box-shadow: 0px -4px 4px #0000001a;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 360px;
+}
+
+.home-screen-tracker .frame-15 {
+  align-items: flex-start;
+  display: flex;
+  gap: 48px;
+  left: 34px;
+  position: relative;
+  top: 12px;
+  width: fit-content;
+}
+
+.home-screen-tracker .frame-16 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.home-screen-tracker .majesticons-home-2 {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.home-screen-tracker .text-wrapper-25 {
+  color: #333333;
+  font-family: "Harmonia Sans Pro Cyr-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home-screen-tracker .text-wrapper-26 {
+  color: #b4b4b4;
+  font-family: "Harmonia Sans Pro Cyr-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home-screen-tracker .overlap-9 {
+  height: 307px;
+  left: 12px;
+  position: absolute;
+  top: 1387px;
+  width: 352px;
+}
+
+.home-screen-tracker .group-46 {
+  height: 305px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 352px;
+}
+
+.home-screen-tracker .text-wrapper-27 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0.18px;
+  line-height: 14px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .frame-17 {
+  height: 271px;
+  left: 0;
+  overflow-x: scroll;
+  position: absolute;
+  top: 34px;
+  width: 350px;
+}
+
+.home-screen-tracker .overlap-group-9 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-3@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 271px;
+  position: relative;
+  width: 271px;
+}
+
+.home-screen-tracker .groom-to-perfection {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 21px;
+  letter-spacing: 0.18px;
+  line-height: normal;
+  position: absolute;
+  top: 190px;
+  width: 230px;
+}
+
+.home-screen-tracker .overlap-10 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 271px;
+  position: relative;
+  width: 271px;
+}
+
+.home-screen-tracker .overlap-11 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 271px;
+  position: relative;
+  width: 271px;
+}
+
+.home-screen-tracker .text-wrapper-28 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 21px;
+  letter-spacing: 0.18px;
+  line-height: normal;
+  position: absolute;
+  top: 166px;
+  width: 229px;
+}
+
+.home-screen-tracker .overlap-12 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 271px;
+  position: relative;
+  width: 271px;
+}
+
+.home-screen-tracker .frame-18 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #333333;
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px #0000001f;
+  height: 24px;
+  left: 242px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 83px;
+}
+
+.home-screen-tracker .text-wrapper-29 {
+  color: #333333;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 15px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+}
+
+.home-screen-tracker .frame-19 {
+  height: 221px;
+  left: 183px;
+  position: absolute;
+  top: 1770px;
+  width: 156px;
+}
+
+.home-screen-tracker .overlap-group-10 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/group-18178-4@2x.png);
+  background-size: 100% 100%;
+  height: 241px;
+  left: -10px;
+  position: relative;
+  top: -8px;
+  width: 172px;
+}
+
+.home-screen-tracker .group-47 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/ic-favorite-24px-5@2x.png);
+  background-size: 100% 100%;
+  height: 19px;
+  left: 133px;
+  position: relative;
+  top: 23px;
+  width: 18px;
+}
+
+.home-screen-tracker .frame-20 {
+  height: 221px;
+  left: 352px;
+  position: absolute;
+  top: 1770px;
+  width: 156px;
+}
+
+.home-screen-tracker .group-48 {
+  height: 241px;
+  left: -10px;
+  position: absolute;
+  top: -8px;
+  width: 14px;
+}
+
+.home-screen-tracker .group-49 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/ic-favorite-24px-7@2x.png);
+  background-size: 100% 100%;
+  height: 19px;
+  left: -48px;
+  position: absolute;
+  top: -513px;
+  width: 18px;
+}
+
+.home-screen-tracker .rectangle-7 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 8px;
+}
+
+.home-screen-tracker .rectangle-8 {
+  height: 75px;
+  left: 4px;
+  position: absolute;
+  top: 146px;
+  width: 4px;
+}
+
+.home-screen-tracker .group-50 {
+  height: 11px;
+  left: -154px;
+  position: absolute;
+  top: -354px;
+  width: 55px;
+}
+
+.home-screen-tracker .text-wrapper-30 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0.18px;
+  line-height: 14px;
+  position: absolute;
+  top: 1730px;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .group-51 {
+  height: 221px;
+  left: 14px;
+  position: absolute;
+  top: 1770px;
+  width: 162px;
+}
+
+.home-screen-tracker .overlap-group-11 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/group-18178-2@2x.png);
+  background-size: 100% 100%;
+  height: 241px;
+  left: -10px;
+  position: relative;
+  top: -8px;
+  width: 172px;
+}
+
+.home-screen-tracker .group-52 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/ic-favorite-24px-3@2x.png);
+  background-size: 100% 100%;
+  height: 19px;
+  left: 133px;
+  position: relative;
+  top: 23px;
+  width: 18px;
+}
+
+.home-screen-tracker .frame-21 {
+  height: 221px;
+  left: 12px;
+  position: absolute;
+  top: 1131px;
+  width: 156px;
+}
+
+.home-screen-tracker .group-53 {
+  height: 221px;
+  width: 162px;
+}
+
+.home-screen-tracker .overlap-group-12 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/group-18178-1@2x.png);
+  background-size: 100% 100%;
+  height: 241px;
+  left: -10px;
+  position: relative;
+  top: -8px;
+  width: 172px;
+}
+
+.home-screen-tracker .frame-22 {
+  height: 229px;
+  left: 10px;
+  position: absolute;
+  top: 831px;
+  width: 156px;
+}
+
+.home-screen-tracker .welcome-june {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  height: 26px;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 107px;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .text-wrapper-31 {
+  font-weight: 500;
+}
+
+.home-screen-tracker .text-wrapper-32 {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.home-screen-tracker .frame-23 {
+  height: 75px;
+  left: 12px;
+  overflow: hidden;
+  /* overflow-x: scroll; */
+  position: absolute;
+  top: 135px;
+  width: 336px;
+}
+
+.home-screen-tracker .group-54 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 65px;
+}
+
+.home-screen-tracker .group-55 {
+  height: 65px;
+}
+
+.home-screen-tracker .frame-24 {
+  background-color: #cdccf3;
+  border-radius: 10px;
+  height: 65px;
+  width: 65px;
+}
+
+.home-screen-tracker .overlap-group-13 {
+  height: 80px;
+  left: 5px;
+  position: relative;
+  top: -21px;
+  width: 61px;
+}
+
+.home-screen-tracker .untitled-design {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 61px;
+}
+
+.home-screen-tracker .text-wrapper-33 {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  height: 12px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .group-56 {
+  height: 65px;
+  left: 89px;
+  position: absolute;
+  top: 10px;
+  width: 65px;
+}
+
+.home-screen-tracker .frame-25 {
+  background-color: #f4fbc5;
+  border-radius: 10px;
+  height: 65px;
+  position: relative;
+  width: 65px;
+}
+
+.home-screen-tracker .text-wrapper-34 {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  height: 12px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .untitled-design-2 {
+  height: 56px;
+  left: 7px;
+  position: absolute;
+  top: -10px;
+  width: 56px;
+}
+
+.home-screen-tracker .group-57 {
+  height: 81px;
+  left: 177px;
+  position: absolute;
+  top: -6px;
+  width: 67px;
+}
+
+.home-screen-tracker .overlap-13 {
+  height: 81px;
+  position: relative;
+}
+
+.home-screen-tracker .group-58 {
+  height: 65px;
+  left: 1px;
+  position: absolute;
+  top: 16px;
+  width: 65px;
+}
+
+.home-screen-tracker .frame-26 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/frame-3904-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 65px;
+}
+
+.home-screen-tracker .overlap-group-14 {
+  background-color: #c5eefd;
+  border-radius: 10px;
+  height: 65px;
+  position: relative;
+  width: 65px;
+}
+
+.home-screen-tracker .text-wrapper-35 {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  height: 12px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .untitled-design-3 {
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.home-screen-tracker .overlap-14 {
+  height: 86px;
+  left: 271px;
+  position: absolute;
+  top: -11px;
+  width: 65px;
+}
+
+.home-screen-tracker .group-59 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 65px;
+}
+
+.home-screen-tracker .frame-27 {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/frame-3904@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 65px;
+  width: 65px;
+}
+
+.home-screen-tracker .overlap-group-15 {
+  background-color: #fdeee0;
+  border-radius: 10px;
+  height: 65px;
+  position: relative;
+}
+
+.home-screen-tracker .text-wrapper-36 {
+  color: #333333;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  height: 12px;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  white-space: nowrap;
+}
+
+.home-screen-tracker .untitled-design-4 {
+  height: 72px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.home-screen-tracker .frame-28 {
+  border-radius: 20px;
+  height: 189px;
+  left: 12px;
+  overflow: hidden;
+  position: absolute;
+  top: 575px;
+  width: 336px;
+}
+
+.home-screen-tracker .overlap-15 {
+  height: 189px;
+  position: relative;
+  width: 688px;
+}
+
+.home-screen-tracker .group-60 {
+  height: 189px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 688px;
+}
+
+.home-screen-tracker .group-61 {
+  height: 189px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 340px;
+}
+
+.home-screen-tracker .sunscreen-front-wrapper {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-4@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 189px;
+  position: relative;
+  width: 336px;
+}
+
+.home-screen-tracker .sunscreen-front {
+  height: 140px;
+  left: 211px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 96px;
+}
+
+.home-screen-tracker .rectangle-9 {
+  height: 189px;
+  left: 517px;
+  object-fit: cover;
+  position: absolute;
+  top: 667px;
+  width: 340px;
+}
+
+.home-screen-tracker .group-62 {
+  height: 1px;
+  left: 142px;
+  position: absolute;
+  top: 181px;
+  width: 56px;
+}
+
+.home-screen-tracker .line {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: -2px;
+  width: 16px;
+}
+
+.home-screen-tracker .line-2 {
+  height: 2px;
+  left: 20px;
+  position: absolute;
+  top: -2px;
+  width: 16px;
+}
+
+.home-screen-tracker .line-3 {
+  height: 2px;
+  left: 40px;
+  position: absolute;
+  top: -2px;
+  width: 16px;
+}
+
+.home-screen-tracker .frame-29 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #333333;
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px #0000001f;
+  height: 24px;
+  left: 254px;
+  overflow: hidden;
+  position: absolute;
+  top: 787px;
+  width: 83px;
+}
+
+.home-screen-tracker .frame-30 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #333333;
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px #0000001f;
+  height: 24px;
+  left: 254px;
+  overflow: hidden;
+  position: absolute;
+  top: 1087px;
+  width: 83px;
+}
+
+
+/*-------------------------------------------------MEdia---------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 481px) {
+  .home-screen-tracker {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home-screen-tracker .div-2 {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 2484px;
+    overflow: hidden;
+    position: relative;
+    width: 360px;
+  }
+  
+  .home-screen-tracker .overlap {
+    height: 101px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 360px;
+  }
+  
+  .home-screen-tracker .browser-bar-android-chrome {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .home-screen-tracker .element-3 {
+    height: 61px;
+    left: 0;
+    position: absolute;
+    top: 40px;
+    width: 360px;
+  }
+  
+  .home-screen-tracker .group-wrapper {
+    background-color: #ffffff;
+    height: 36px;
+    left: 303px;
+    position: absolute;
+    top: 55px;
+    width: 40px;
+  }
+  
+  .home-screen-tracker .group {
+    height: 28px;
+    left: 6px;
+    position: relative;
+    top: 8px;
+    width: 27px;
+  }
+  
+  .home-screen-tracker .overlap-group-2 {
+    height: 28px;
+    position: relative;
+  }
+  
+  .home-screen-tracker .majesticons-home {
+    height: 24px;
+    left: 3px;
+    position: absolute;
+    top: 4px;
+    width: 24px;
+  }
+  
+  .home-screen-tracker .mark-hsitemcount {
+    background-color: #333333;
+    border-radius: 20px;
+    box-shadow: -1px 0px 3px #70708066;
+    height: 12px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 12px;
+  }
+  
+  .home-screen-tracker .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 9px;
+    font-weight: 700;
+    height: 13px;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    top: -2px;
+    white-space: nowrap;
+    width: 6px;
+  }
+  
+  .home-screen-tracker .saturn-new-logo-wrapper {
+    background-color: #ffffff;
+    height: 51px;
+    left: 121px;
+    position: absolute;
+    top: 44px;
+    width: 118px;
+  }
+  
+  .home-screen-tracker .saturn-new-logo {
+    height: 23px;
+    left: 1px;
+    object-fit: cover;
+    position: absolute;
+    top: 14px;
+    width: 113px;
+  }
+  
+  .home-screen-tracker .group-2 {
+    height: 114px;
+    left: 15px;
+    position: absolute;
+    top: 235px;
+    width: 330px;
+  }
+  
+  .home-screen-tracker .overlap-group-wrapper {
+    height: 114px;
+    width: 334px;
+  }
+  
+  .home-screen-tracker .overlap-group-3 {
+    border-radius: 10px;
+    height: 114px;
+    position: relative;
+    width: 330px;
+  }
+  
+  .home-screen-tracker .frame-2 {
+    background-color: #ffffff33;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px #00000029;
+    height: 114px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 330px;
+  }
+  
+  .home-screen-tracker .frame-3 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0px 4px 10px #00000012;
+    height: 26px;
+    left: 204px;
+    overflow: hidden;
+    position: absolute;
+    top: 76px;
+    width: 100px;
+  }
+  
+  .home-screen-tracker .group-3 {
+    height: 18px;
+    left: 11px;
+    position: relative;
+    top: 4px;
+    width: 78px;
+  }
+  
+  .home-screen-tracker .group-4 {
+    height: 12px;
+    left: 24px;
+    position: absolute;
+    top: 3px;
+    width: 54px;
+  }
+  
+  .home-screen-tracker .group-5 {
+    height: 12px;
+    position: relative;
+    width: 56px;
+  }
+  
+  .home-screen-tracker .text-wrapper-3 {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .ic-baseline-water {
+    height: 18px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 18px;
+  }
+  
+  .home-screen-tracker .frame-4 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0px 4px 10px #00000012;
+    height: 26px;
+    left: 204px;
+    overflow: hidden;
+    position: absolute;
+    top: 44px;
+    width: 100px;
+  }
+  
+  .home-screen-tracker .group-6 {
+    height: 18px;
+    left: 11px;
+    position: relative;
+    top: 4px;
+    width: 69px;
+  }
+  
+  .home-screen-tracker .group-7 {
+    height: 12px;
+    left: 24px;
+    position: absolute;
+    top: 3px;
+    width: 45px;
+  }
+  
+  .home-screen-tracker .group-8 {
+    height: 12px;
+    position: relative;
+    width: 47px;
+  }
+  
+  .home-screen-tracker .frame-5 {
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0px 4px 10px #00000012;
+    height: 26px;
+    left: 204px;
+    overflow: hidden;
+    position: absolute;
+    top: 12px;
+    width: 100px;
+  }
+  
+  .home-screen-tracker .group-9 {
+    height: 18px;
+    left: 11px;
+    position: relative;
+    top: 4px;
+    width: 63px;
+  }
+  
+  .home-screen-tracker .group-10 {
+    height: 12px;
+    left: 24px;
+    position: absolute;
+    top: 3px;
+    width: 39px;
+  }
+  
+  .home-screen-tracker .group-11 {
+    height: 12px;
+    position: relative;
+    width: 41px;
+  }
+  
+  .home-screen-tracker .group-12 {
+    height: 24px;
+    left: 30px;
+    position: absolute;
+    top: 12px;
+    width: 104px;
+  }
+  
+  .home-screen-tracker .group-13 {
+    height: 24px;
+  }
+  
+  .home-screen-tracker .group-14 {
+    height: 24px;
+    width: 104px;
+  }
+  
+  .home-screen-tracker .group-15 {
+    height: 24px;
+    position: relative;
+    width: 106px;
+  }
+  
+  .home-screen-tracker .text-wrapper-4 {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    height: 24px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .text-wrapper-5 {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 40px;
+    font-weight: 500;
+    height: 44px;
+    left: 53px;
+    letter-spacing: 0;
+    line-height: 44px;
+    position: absolute;
+    top: 41px;
+    white-space: nowrap;
+    width: 50px;
+  }
+  
+  .home-screen-tracker .frame-6 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px #0000001a;
+    height: 17px;
+    left: 106px;
+    position: absolute;
+    top: 53px;
+    width: 90px;
+  }
+  
+  .home-screen-tracker .text-wrapper-6 {
+    color: #fa715e;
+    font-family: "Roboto", Helvetica;
+    font-size: 8px;
+    font-weight: 400;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: 12px;
+    position: absolute;
+    top: 1px;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .text-wrapper-7 {
+    color: #777777;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 38px;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 85px;
+    white-space: nowrap;
+    width: 79px;
+  }
+  
+  .home-screen-tracker .overlap-wrapper {
+    height: 126px;
+    left: 15px;
+    position: absolute;
+    top: 361px;
+    width: 159px;
+  }
+  
+  .home-screen-tracker .overlap-2 {
+    border-radius: 10px;
+    height: 126px;
+    position: relative;
+  }
+  
+  .home-screen-tracker .frame-7 {
+    background-color: #ffffff33;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px #00000029;
+    height: 126px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 159px;
+  }
+  
+  .home-screen-tracker .group-16 {
+    height: 31px;
+    left: 75px;
+    position: relative;
+    top: 47px;
+    width: 68px;
+  }
+  
+  .home-screen-tracker .group-17 {
+    height: 12px;
+    left: 18px;
+    position: absolute;
+    top: 0;
+    width: 37px;
+  }
+  
+  .home-screen-tracker .group-18 {
+    height: 12px;
+    position: relative;
+    width: 39px;
+  }
+  
+  .home-screen-tracker .text-wrapper-8 {
+    color: #777777;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .group-19 {
+    height: 13px;
+    left: 0;
+    position: absolute;
+    top: 18px;
+    width: 70px;
+  }
+  
+  .home-screen-tracker .text-wrapper-9 {
+    color: #777777;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1px;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .asicon-outline {
+    height: 13px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 13px;
+  }
+  
+  .home-screen-tracker .vector-2 {
+    height: 11px;
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 8px;
+  }
+  
+  .home-screen-tracker .group-20 {
+    height: 107px;
+    left: 13px;
+    position: absolute;
+    top: 10px;
+    width: 123px;
+  }
+  
+  .home-screen-tracker .group-21 {
+    height: 73px;
+    left: 4px;
+    position: absolute;
+    top: 0;
+    width: 102px;
+  }
+  
+  .home-screen-tracker .text-wrapper-10 {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 40px;
+    font-weight: 500;
+    height: 44px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 44px;
+    position: absolute;
+    top: 29px;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .group-22 {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100px;
+  }
+  
+  .home-screen-tracker .group-23 {
+    height: 24px;
+    position: relative;
+    width: 102px;
+  }
+  
+  .home-screen-tracker .group-24 {
+    height: 23px;
+    left: 0;
+    position: absolute;
+    top: 84px;
+    width: 123px;
+  }
+  
+  .home-screen-tracker .group-25 {
+    height: 14px;
+    left: 0;
+    position: absolute;
+    top: 9px;
+    width: 61px;
+  }
+  
+  .home-screen-tracker .text-wrapper-11 {
+    color: #777777;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .text-wrapper-12 {
+    color: #777777;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 700;
+    left: 40px;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .rectangle-wrapper {
+    background-color: #fe82764a;
+    border-radius: 10px;
+    height: 4px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 123px;
+  }
+  
+  .home-screen-tracker .rectangle {
+    background: linear-gradient(180deg, rgb(254, 130, 118) 11.25%, rgb(255, 70.55, 70.55) 100%);
+    border-radius: 10px;
+    height: 4px;
+    width: 68px;
+  }
+  
+  .home-screen-tracker .group-26 {
+    height: 126px;
+    left: 186px;
+    position: absolute;
+    top: 361px;
+    width: 159px;
+  }
+  
+  .home-screen-tracker .group-27 {
+    height: 31px;
+    left: 16px;
+    position: absolute;
+    top: 42px;
+    width: 68px;
+  }
+  
+  .home-screen-tracker .group-28 {
+    height: 23px;
+    left: 16px;
+    position: absolute;
+    top: 94px;
+    width: 123px;
+  }
+  
+  .home-screen-tracker .group-29 {
+    height: 24px;
+    left: 17px;
+    position: absolute;
+    top: 10px;
+    width: 69px;
+  }
+  
+  .home-screen-tracker .group-30 {
+    height: 24px;
+    width: 69px;
+  }
+  
+  .home-screen-tracker .group-31 {
+    height: 24px;
+    position: relative;
+    width: 71px;
+  }
+  
+  .home-screen-tracker .frame-8 {
+    background-color: #333333;
+    border-radius: 4px;
+    box-shadow: 0px 2px 10px #0000001f;
+    height: 48px;
+    left: 13px;
+    position: absolute;
+    top: 506px;
+    width: 335px;
+  }
+  
+  .home-screen-tracker .text-wrapper-13 {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    height: 19px;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 14px;
+    white-space: nowrap;
+    width: 133px;
+  }
+  
+  .home-screen-tracker .vector-3 {
+    height: 13px;
+    left: 313px;
+    position: absolute;
+    top: 18px;
+    width: 8px;
+  }
+  
+  .home-screen-tracker .frame-9 {
+    height: 221px;
+    left: 181px;
+    position: absolute;
+    top: 831px;
+    width: 156px;
+  }
+  
+  .home-screen-tracker .overlap-3 {
+    height: 221px;
+    position: relative;
+    width: 162px;
+  }
+  
+  .home-screen-tracker .group-32 {
+    height: 221px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 162px;
+  }
+  
+  .home-screen-tracker .overlap-group-4 {
+    height: 221px;
+    position: relative;
+    width: 156px;
+  }
+  
+  .home-screen-tracker .group-33 {
+    height: 221px;
+    left: 4px;
+    position: absolute;
+    top: 0;
+    width: 152px;
+  }
+  
+  .home-screen-tracker .overlap-group-5 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/group-18178-8@2x.png);
+    background-size: 100% 100%;
+    height: 241px;
+    left: -10px;
+    position: relative;
+    top: -8px;
+    width: 172px;
+  }
+  
+  .home-screen-tracker .group-34 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/ic-favorite-24px-9@2x.png);
+    background-size: 100% 100%;
+    height: 19px;
+    left: 133px;
+    position: relative;
+    top: 23px;
+    width: 18px;
+  }
+  
+  .home-screen-tracker .group-35 {
+    height: 20px;
+    left: 0;
+    position: absolute;
+    top: 13px;
+    width: 41px;
+  }
+  
+  .home-screen-tracker .overlap-4 {
+    height: 20px;
+    position: relative;
+    width: 39px;
+  }
+  
+  .home-screen-tracker .rectangle-2 {
+    height: 18px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 39px;
+  }
+  
+  .home-screen-tracker .text-wrapper-14 {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 700;
+    left: 9px;
+    letter-spacing: 0.18px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .rectangle-3 {
+    height: 75px;
+    left: 4px;
+    position: absolute;
+    top: 146px;
+    width: 152px;
+  }
+  
+  .home-screen-tracker .text-wrapper-15 {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 500;
+    left: 17px;
+    letter-spacing: 0.18px;
+    line-height: 14px;
+    position: absolute;
+    top: 156px;
+    white-space: nowrap;
+    width: 128px;
+  }
+  
+  .home-screen-tracker .text-wrapper-16 {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 75px;
+    letter-spacing: 0.18px;
+    line-height: 14px;
+    position: absolute;
+    top: 173px;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .rs-rs {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 17px;
+    letter-spacing: 0.18px;
+    line-height: 20px;
+    position: absolute;
+    top: 187px;
+    white-space: nowrap;
+    width: 95px;
+  }
+  
+  .home-screen-tracker .span {
+    font-weight: 500;
+  }
+  
+  .home-screen-tracker .text-wrapper-17 {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.18px;
+    line-height: 20px;
+  }
+  
+  .home-screen-tracker .text-wrapper-18 {
+    font-size: 10px;
+    text-decoration: line-through;
+  }
+  
+  .home-screen-tracker .group-36 {
+    height: 11px;
+    left: 17px;
+    position: absolute;
+    top: 174px;
+    width: 55px;
+  }
+  
+  .home-screen-tracker .frame-10 {
+    height: 221px;
+    left: 181px;
+    position: absolute;
+    top: 1131px;
+    width: 156px;
+  }
+  
+  .home-screen-tracker .overlap-group-6 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/group-18178-7@2x.png);
+    background-size: 100% 100%;
+    height: 241px;
+    left: -10px;
+    position: relative;
+    top: -8px;
+    width: 172px;
+  }
+  
+  .home-screen-tracker .frame-11 {
+    height: 221px;
+    left: 350px;
+    position: absolute;
+    top: 831px;
+    width: 156px;
+  }
+  
+  .home-screen-tracker .group-37 {
+    height: 241px;
+    left: -10px;
+    position: absolute;
+    top: -8px;
+    width: 16px;
+  }
+  
+  .home-screen-tracker .ic-favorite-wrapper {
+    height: 19px;
+    left: 123px;
+    position: absolute;
+    top: 15px;
+    width: 18px;
+  }
+  
+  .home-screen-tracker .ic-favorite-px {
+    height: 19px !important;
+    left: -169px !important;
+    top: 411px !important;
+    width: 18px !important;
+  }
+  
+  .home-screen-tracker .overlap-group-7 {
+    height: 20px;
+    position: relative;
+    width: 33px;
+  }
+  
+  .home-screen-tracker .rectangle-4 {
+    height: 18px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 10px;
+  }
+  
+  .home-screen-tracker .rectangle-5 {
+    height: 75px;
+    left: 4px;
+    position: absolute;
+    top: 146px;
+    width: 6px;
+  }
+  
+  .home-screen-tracker .group-38 {
+    height: 11px;
+    left: -152px;
+    position: absolute;
+    top: 585px;
+    width: 55px;
+  }
+  
+  .home-screen-tracker .frame-12 {
+    height: 221px;
+    left: 350px;
+    position: absolute;
+    top: 1131px;
+    width: 156px;
+  }
+  
+  .home-screen-tracker .ic-favorite-24px {
+    height: 19px !important;
+    left: -169px !important;
+    top: 111px !important;
+    width: 18px !important;
+  }
+  
+  .home-screen-tracker .group-39 {
+    height: 11px;
+    left: -152px;
+    position: absolute;
+    top: 285px;
+    width: 55px;
+  }
+  
+  .home-screen-tracker .text-wrapper-19 {
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 14px;
+    letter-spacing: 0.18px;
+    line-height: 14px;
+    position: absolute;
+    top: 786px;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .text-wrapper-20 {
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 14px;
+    letter-spacing: 0.18px;
+    line-height: 14px;
+    position: absolute;
+    top: 1091px;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .group-40 {
+    height: 307px;
+    left: 12px;
+    position: absolute;
+    top: 2049px;
+    width: 352px;
+  }
+  
+  .home-screen-tracker .frame-13 {
+    height: 271px;
+    left: 0;
+    overflow-x: scroll;
+    position: absolute;
+    top: 36px;
+    width: 350px;
+  }
+  
+  .home-screen-tracker .group-41 {
+    height: 271px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 275px;
+  }
+  
+  .home-screen-tracker .overlap-group-8 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-7@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 271px;
+    position: relative;
+    width: 271px;
+  }
+  
+  .home-screen-tracker .rectangle-6 {
+    background-color: #00000069;
+    border-radius: 16px;
+    box-shadow: 0px 2px 10px #0000001f;
+    height: 271px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 271px;
+  }
+  
+  .home-screen-tracker .p {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 21px;
+    letter-spacing: 0.18px;
+    line-height: normal;
+    position: absolute;
+    top: 170px;
+    width: 230px;
+  }
+  
+  .home-screen-tracker .text-wrapper-21 {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 500;
+    left: 21px;
+    letter-spacing: 0.18px;
+    line-height: normal;
+    position: absolute;
+    top: 231px;
+    width: 152px;
+  }
+  
+  .home-screen-tracker .group-42 {
+    height: 271px;
+    left: 284px;
+    position: absolute;
+    top: 0;
+    width: 275px;
+  }
+  
+  .home-screen-tracker .overlap-5 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-6@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 271px;
+    position: relative;
+    width: 271px;
+  }
+  
+  .home-screen-tracker .group-43 {
+    height: 271px;
+    left: 568px;
+    position: absolute;
+    top: 0;
+    width: 275px;
+  }
+  
+  .home-screen-tracker .overlap-6 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-5@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 271px;
+    position: relative;
+    width: 271px;
+  }
+  
+  .home-screen-tracker .text-wrapper-22 {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 21px;
+    letter-spacing: 0.18px;
+    line-height: normal;
+    position: absolute;
+    top: 186px;
+    width: 229px;
+  }
+  
+  .home-screen-tracker .group-44 {
+    height: 271px;
+    left: 852px;
+    position: absolute;
+    top: 0;
+    width: 275px;
+  }
+  
+  .home-screen-tracker .overlap-7 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-4@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 271px;
+    position: relative;
+    width: 271px;
+  }
+  
+  .home-screen-tracker .text-wrapper-23 {
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 2px;
+    letter-spacing: 0.18px;
+    line-height: 14px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .overlap-8 {
+    height: 108px;
+    left: 0;
+    position: absolute;
+    top: 2376px;
+    width: 360px;
+  }
+  
+  .home-screen-tracker .frame-14 {
+    background-color: #333333;
+    border-radius: 4px;
+    box-shadow: 0px 2px 10px #0000001f;
+    height: 55px;
+    left: 15px;
+    position: absolute;
+    top: 0;
+    width: 335px;
+  }
+  
+  .home-screen-tracker .text-wrapper-24 {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    height: 24px;
+    left: 57px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 14px;
+    white-space: nowrap;
+    width: 240px;
+  }
+  
+  .home-screen-tracker .skill-icons {
+    height: 37px;
+    left: 11px;
+    position: absolute;
+    top: 8px;
+    width: 37px;
+  }
+  
+  .home-screen-tracker .vector-4 {
+    height: 13px;
+    left: 311px;
+    position: absolute;
+    top: 20px;
+    width: 8px;
+  }
+  
+  .home-screen-tracker .group-45 {
+    background-color: #ffffff;
+    box-shadow: 0px -4px 4px #0000001a;
+    height: 66px;
+    left: 0;
+    position: absolute;
+    top: 42px;
+    width: 360px;
+  }
+  
+  .home-screen-tracker .frame-15 {
+    align-items: flex-start;
+    display: flex;
+    gap: 48px;
+    left: 34px;
+    position: relative;
+    top: 12px;
+    width: fit-content;
+  }
+  
+  .home-screen-tracker .frame-16 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .home-screen-tracker .majesticons-home-2 {
+    height: 24px;
+    min-width: 24px;
+    position: relative;
+  }
+  
+  .home-screen-tracker .text-wrapper-25 {
+    color: #333333;
+    font-family: "Harmonia Sans Pro Cyr-SemiBold", Helvetica;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 18px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .home-screen-tracker .text-wrapper-26 {
+    color: #b4b4b4;
+    font-family: "Harmonia Sans Pro Cyr-SemiBold", Helvetica;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 18px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .home-screen-tracker .overlap-9 {
+    height: 307px;
+    left: 12px;
+    position: absolute;
+    top: 1387px;
+    width: 352px;
+  }
+  
+  .home-screen-tracker .group-46 {
+    height: 305px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: 352px;
+  }
+  
+  .home-screen-tracker .text-wrapper-27 {
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 4px;
+    letter-spacing: 0.18px;
+    line-height: 14px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .frame-17 {
+    height: 271px;
+    left: 0;
+    overflow-x: scroll;
+    position: absolute;
+    top: 34px;
+    width: 350px;
+  }
+  
+  .home-screen-tracker .overlap-group-9 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-3@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 271px;
+    position: relative;
+    width: 271px;
+  }
+  
+  .home-screen-tracker .groom-to-perfection {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 21px;
+    letter-spacing: 0.18px;
+    line-height: normal;
+    position: absolute;
+    top: 190px;
+    width: 230px;
+  }
+  
+  .home-screen-tracker .overlap-10 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-2@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 271px;
+    position: relative;
+    width: 271px;
+  }
+  
+  .home-screen-tracker .overlap-11 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 271px;
+    position: relative;
+    width: 271px;
+  }
+  
+  .home-screen-tracker .text-wrapper-28 {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 21px;
+    letter-spacing: 0.18px;
+    line-height: normal;
+    position: absolute;
+    top: 166px;
+    width: 229px;
+  }
+  
+  .home-screen-tracker .overlap-12 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-27854@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 271px;
+    position: relative;
+    width: 271px;
+  }
+  
+  .home-screen-tracker .frame-18 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #333333;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #0000001f;
+    height: 24px;
+    left: 242px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 83px;
+  }
+  
+  .home-screen-tracker .text-wrapper-29 {
+    color: #333333;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 15px;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3px;
+  }
+  
+  .home-screen-tracker .frame-19 {
+    height: 221px;
+    left: 183px;
+    position: absolute;
+    top: 1770px;
+    width: 156px;
+  }
+  
+  .home-screen-tracker .overlap-group-10 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/group-18178-4@2x.png);
+    background-size: 100% 100%;
+    height: 241px;
+    left: -10px;
+    position: relative;
+    top: -8px;
+    width: 172px;
+  }
+  
+  .home-screen-tracker .group-47 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/ic-favorite-24px-5@2x.png);
+    background-size: 100% 100%;
+    height: 19px;
+    left: 133px;
+    position: relative;
+    top: 23px;
+    width: 18px;
+  }
+  
+  .home-screen-tracker .frame-20 {
+    height: 221px;
+    left: 352px;
+    position: absolute;
+    top: 1770px;
+    width: 156px;
+  }
+  
+  .home-screen-tracker .group-48 {
+    height: 241px;
+    left: -10px;
+    position: absolute;
+    top: -8px;
+    width: 14px;
+  }
+  
+  .home-screen-tracker .group-49 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/ic-favorite-24px-7@2x.png);
+    background-size: 100% 100%;
+    height: 19px;
+    left: -48px;
+    position: absolute;
+    top: -513px;
+    width: 18px;
+  }
+  
+  .home-screen-tracker .rectangle-7 {
+    height: 18px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 8px;
+  }
+  
+  .home-screen-tracker .rectangle-8 {
+    height: 75px;
+    left: 4px;
+    position: absolute;
+    top: 146px;
+    width: 4px;
+  }
+  
+  .home-screen-tracker .group-50 {
+    height: 11px;
+    left: -154px;
+    position: absolute;
+    top: -354px;
+    width: 55px;
+  }
+  
+  .home-screen-tracker .text-wrapper-30 {
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 16px;
+    letter-spacing: 0.18px;
+    line-height: 14px;
+    position: absolute;
+    top: 1730px;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .group-51 {
+    height: 221px;
+    left: 14px;
+    position: absolute;
+    top: 1770px;
+    width: 162px;
+  }
+  
+  .home-screen-tracker .overlap-group-11 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/group-18178-2@2x.png);
+    background-size: 100% 100%;
+    height: 241px;
+    left: -10px;
+    position: relative;
+    top: -8px;
+    width: 172px;
+  }
+  
+  .home-screen-tracker .group-52 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/ic-favorite-24px-3@2x.png);
+    background-size: 100% 100%;
+    height: 19px;
+    left: 133px;
+    position: relative;
+    top: 23px;
+    width: 18px;
+  }
+  
+  .home-screen-tracker .frame-21 {
+    height: 221px;
+    left: 12px;
+    position: absolute;
+    top: 1131px;
+    width: 156px;
+  }
+  
+  .home-screen-tracker .group-53 {
+    height: 221px;
+    width: 162px;
+  }
+  
+  .home-screen-tracker .overlap-group-12 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/group-18178-1@2x.png);
+    background-size: 100% 100%;
+    height: 241px;
+    left: -10px;
+    position: relative;
+    top: -8px;
+    width: 172px;
+  }
+  
+  .home-screen-tracker .frame-22 {
+    height: 229px;
+    left: 10px;
+    position: absolute;
+    top: 831px;
+    width: 156px;
+  }
+  
+  .home-screen-tracker .welcome-june {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 26px;
+    left: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 107px;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .text-wrapper-31 {
+    font-weight: 300;
+  }
+  
+  .home-screen-tracker .text-wrapper-32 {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .home-screen-tracker .frame-23 {
+    height: 75px;
+    left: 12px;
+    overflow: hidden;
+    /* overflow-x: scroll; */
+    position: absolute;
+    top: 135px;
+    width: 336px;
+  }
+  
+  .home-screen-tracker .group-54 {
+    height: 65px;
+    left: 0;
+    position: absolute;
+    top: 10px;
+    width: 65px;
+  }
+  
+  .home-screen-tracker .group-55 {
+    height: 65px;
+  }
+  
+  .home-screen-tracker .frame-24 {
+    background-color: #cdccf3;
+    border-radius: 10px;
+    height: 65px;
+    width: 65px;
+  }
+  
+  .home-screen-tracker .overlap-group-13 {
+    height: 80px;
+    left: 5px;
+    position: relative;
+    top: -21px;
+    width: 61px;
+  }
+  
+  .home-screen-tracker .untitled-design {
+    height: 75px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 61px;
+  }
+  
+  .home-screen-tracker .text-wrapper-33 {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 500;
+    height: 12px;
+    left: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 68px;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .group-56 {
+    height: 65px;
+    left: 89px;
+    position: absolute;
+    top: 10px;
+    width: 65px;
+  }
+  
+  .home-screen-tracker .frame-25 {
+    background-color: #f4fbc5;
+    border-radius: 10px;
+    height: 65px;
+    position: relative;
+    width: 65px;
+  }
+  
+  .home-screen-tracker .text-wrapper-34 {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 500;
+    height: 12px;
+    left: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 47px;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .untitled-design-2 {
+    height: 56px;
+    left: 7px;
+    position: absolute;
+    top: -10px;
+    width: 56px;
+  }
+  
+  .home-screen-tracker .group-57 {
+    height: 81px;
+    left: 177px;
+    position: absolute;
+    top: -6px;
+    width: 67px;
+  }
+  
+  .home-screen-tracker .overlap-13 {
+    height: 81px;
+    position: relative;
+  }
+  
+  .home-screen-tracker .group-58 {
+    height: 65px;
+    left: 1px;
+    position: absolute;
+    top: 16px;
+    width: 65px;
+  }
+  
+  .home-screen-tracker .frame-26 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/frame-3904-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 65px;
+  }
+  
+  .home-screen-tracker .overlap-group-14 {
+    background-color: #c5eefd;
+    border-radius: 10px;
+    height: 65px;
+    position: relative;
+    width: 65px;
+  }
+  
+  .home-screen-tracker .text-wrapper-35 {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 500;
+    height: 12px;
+    left: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 47px;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .untitled-design-3 {
+    height: 57px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 67px;
+  }
+  
+  .home-screen-tracker .overlap-14 {
+    height: 86px;
+    left: 271px;
+    position: absolute;
+    top: -11px;
+    width: 65px;
+  }
+  
+  .home-screen-tracker .group-59 {
+    height: 65px;
+    left: 0;
+    position: absolute;
+    top: 21px;
+    width: 65px;
+  }
+  
+  .home-screen-tracker .frame-27 {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/frame-3904@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 65px;
+    width: 65px;
+  }
+  
+  .home-screen-tracker .overlap-group-15 {
+    background-color: #fdeee0;
+    border-radius: 10px;
+    height: 65px;
+    position: relative;
+  }
+  
+  .home-screen-tracker .text-wrapper-36 {
+    color: #333333;
+    font-family: "Roboto", Helvetica;
+    font-size: 10px;
+    font-weight: 500;
+    height: 12px;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 47px;
+    white-space: nowrap;
+  }
+  
+  .home-screen-tracker .untitled-design-4 {
+    height: 72px;
+    left: 6px;
+    position: absolute;
+    top: 0;
+    width: 59px;
+  }
+  
+  .home-screen-tracker .frame-28 {
+    border-radius: 20px;
+    height: 189px;
+    left: 12px;
+    overflow: hidden;
+    position: absolute;
+    top: 575px;
+    width: 336px;
+  }
+  
+  .home-screen-tracker .overlap-15 {
+    height: 189px;
+    position: relative;
+    width: 688px;
+  }
+  
+  .home-screen-tracker .group-60 {
+    height: 189px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 688px;
+  }
+  
+  .home-screen-tracker .group-61 {
+    height: 189px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 340px;
+  }
+  
+  .home-screen-tracker .sunscreen-front-wrapper {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/cce779fa8a014fa26748b78b77b78d9c/img/rectangle-4@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 189px;
+    position: relative;
+    width: 336px;
+  }
+  
+  .home-screen-tracker .sunscreen-front {
+    height: 140px;
+    left: 211px;
+    object-fit: cover;
+    position: absolute;
+    top: 38px;
+    width: 96px;
+  }
+  
+  .home-screen-tracker .rectangle-9 {
+    height: 189px;
+    left: 517px;
+    object-fit: cover;
+    position: absolute;
+    top: 667px;
+    width: 340px;
+  }
+  
+  .home-screen-tracker .group-62 {
+    height: 1px;
+    left: 142px;
+    position: absolute;
+    top: 181px;
+    width: 56px;
+  }
+  
+  .home-screen-tracker .line {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: -2px;
+    width: 16px;
+  }
+  
+  .home-screen-tracker .line-2 {
+    height: 2px;
+    left: 20px;
+    position: absolute;
+    top: -2px;
+    width: 16px;
+  }
+  
+  .home-screen-tracker .line-3 {
+    height: 2px;
+    left: 40px;
+    position: absolute;
+    top: -2px;
+    width: 16px;
+  }
+  
+  .home-screen-tracker .frame-29 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #333333;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #0000001f;
+    height: 24px;
+    left: 254px;
+    overflow: hidden;
+    position: absolute;
+    top: 787px;
+    width: 83px;
+  }
+  
+  .home-screen-tracker .frame-30 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #333333;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #0000001f;
+    height: 24px;
+    left: 254px;
+    overflow: hidden;
+    position: absolute;
+    top: 1087px;
+    width: 83px;
+  }
+ 
+}

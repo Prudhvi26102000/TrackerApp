@@ -1,0 +1,1 @@
+export { IcFavorite } from "./IcFavorite";
